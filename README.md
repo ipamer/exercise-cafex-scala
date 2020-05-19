@@ -1,3 +1,8 @@
+## Notes
+
+Keep in mind that this is only a showcase project, there was a recommended time limit.
+This project could be improved further and that is intentional, open for discussion.
+
 # Exercise
 
 CafeX - Basic Exercise (Approximately 1 Hour)
